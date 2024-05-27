@@ -16,3 +16,11 @@
 ### Punto 2.c.
   
   ![image](https://github.com/DarioColetto/ASO2024TPs/assets/94858788/4b8f35ce-b274-4d0b-ab45-a720019ab13b)
+
+
+## PARCIAL 1
+
+ + Tipos de Sistemas Operativos. 
+ + First Come First Served.
+
+https://www.youtube.com/watch?v=93VUOSk_RLU&ab_channel=LukasCarrasco
