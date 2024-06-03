@@ -24,3 +24,24 @@
  + First Come First Served.
 
 https://www.youtube.com/watch?v=93VUOSk_RLU&ab_channel=LukasCarrasco
+
+
+## TP4
+
+#### a) Servicicios de docker-compose
+  ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/docer-compose.png)
+  
+#### b) 
+  + nginx
+    
+  ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/nginx.png)
+  + PHPMyAdmin
+    
+  ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/PHPyAadmin.png)
+#### c)
+
++ Web Facultad
+
+![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/archivos_facultad.png)
+![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/sitio_de_facultad.png)
+
