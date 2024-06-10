@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=93VUOSk_RLU&ab_channel=LukasCarrasco
   ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/docer-compose.png)
   
 #### b) 
-  + nginx
+  + HTML
     
-  ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/nginx.png)
+  ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/HTML.png?raw=true)
   + PHPMyAdmin
     
   ![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/PHPyAadmin.png)
@@ -42,6 +42,6 @@ https://www.youtube.com/watch?v=93VUOSk_RLU&ab_channel=LukasCarrasco
 
 + Web Facultad
 
-![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/archivos_facultad.png)
-![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/sitio_de_facultad.png)
+![image](https://github.com/DarioColetto/ASO2024TPs/blob/main/TP4/sitio_de_facultad.png?raw=true)
+
 
